@@ -1,0 +1,3 @@
+google-genai>=1.49.0
+gradio>=5
+huggingface_hub<1.0
