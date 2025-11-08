@@ -19,7 +19,7 @@ A minimal, polished Gradio app for **Gemini File Search**. create/manage stores.
 
 ## Quickstart (local)
 ```bash
-git clone https://github.com/<you>/gemini-file-search-gradio-demo.git
+git clone https://github.com/rahulkolekardev/gemini-file-search-gradio-demo.git
 cd gemini-file-search-gradio-demo
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
